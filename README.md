@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating a common error when accessing array elements and its solution. The bug.pl file shows the erroneous code, while bugSolution.pl provides a corrected version.
